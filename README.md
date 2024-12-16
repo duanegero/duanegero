@@ -8,14 +8,15 @@ Hi there! I'm Duane, a passionate **Full Stack Developer** and aspiring tech inn
 - Develop **secure and efficient backends**, including RESTful APIs and JWT-based authentication.
 - Design and maintain databases for optimized performance.
 
-
-🏀 **Beyond the Code:**  
-I’m also the Assistant Technical Director for a **basketball program** at my local Y, where I oversee team tryouts, coach training, and player development. My teamwork mindset extends both on and off the court!
-
 📌 **Current Projects:**
 - A **Expense API** for keeping track of deposits and expenses. intended for non-profits.
 - A **Basketball API** for managing players, teams, and coaches.  
 - Exploring **React** to build reusable components and scalable frontends.
+
+
+🏀 **Beyond the Code:**  
+I’m also the Assistant Technical Director for a **basketball program** at my local Y, where I oversee team tryouts, coach training, and player development. My teamwork mindset extends both on and off the court!
+
 
 
 
