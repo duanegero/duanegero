@@ -1,5 +1,22 @@
-# 💫 About Me:
-Hi there! I'm Duane, a passionate **Full Stack Developer** and aspiring tech innovator. I specialize in creating dynamic and user-friendly web applications, leveraging technologies like **React**, **Node.js**, **Express**, and **PostgreSQL**. I'm looking to collaborate with software developers <br>I'm looking for help with all things Full Stack<br>I'm currently learning SQL and PGadmin 4<br>Ask me about my one of my public repositories <br>Fun Fact - I am a basketball 
+## About Me 🙌:
+
+Hi there! I'm Duane, a passionate **Full Stack Developer** and aspiring tech innovator. I specialize in creating dynamic and user-friendly web applications, leveraging technologies like **React**, **Node.js**, **Express**, and **PostgreSQL**. 
+
+
+👨‍💻 **What I do:**
+- Build **frontend applications**
+- Develop **secure and efficient backends**, including RESTful APIs and JWT-based authentication.
+- Design and maintain databases for optimized performance.
+
+
+🏀 **Beyond the Code:**  
+I’m also the Assistant Technical Director for a **basketball program** at my local Y, where I oversee team tryouts, coach training, and player development. My teamwork mindset extends both on and off the court!
+
+📌 **Current Projects:**
+- A **Expense API** for keeping track of deposits and expenses. intended for non-profits.
+- A **Basketball API** for managing players, teams, and coaches.  
+- Exploring **React** to build reusable components and scalable frontends.
+
 
 
 ## 🌐 Socials:
