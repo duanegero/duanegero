@@ -4,7 +4,7 @@ Hi there! I'm Duane, a passionate **Full Stack Developer** and aspiring tech inn
 
 
 👨‍💻 **What I do:**
-- Build **frontend applications**
+- Build **frontend applications** with responsive and interactive user interfaces.
 - Develop **secure and efficient backends**, including RESTful APIs and JWT-based authentication.
 - Design and maintain databases for optimized performance.
 
@@ -15,7 +15,7 @@ Hi there! I'm Duane, a passionate **Full Stack Developer** and aspiring tech inn
 
 
 🏀 **Beyond the Code:**  
-I’m also the Assistant Technical Director for a **basketball program** at my local Y, where I oversee team tryouts, coach training, and player development. My teamwork mindset extends both on and off the court!
+I’m also the Assistant Technical Director for a **basketball program** at my local YMCA, where I oversee team tryouts, coach training, and player development. My teamwork mindset extends both on and off the court!
 
 
 
